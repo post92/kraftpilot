@@ -1,0 +1,1 @@
+{"name":"KraftPilot – Dein Training","short_name":"KraftPilot","description":"Geführtes Krafttraining mit lokaler Speicherung","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#191e24","theme_color":"#20252b","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
